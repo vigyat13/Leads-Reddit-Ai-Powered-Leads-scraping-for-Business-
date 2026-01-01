@@ -1,0 +1,20 @@
+# --- Secrets (NEVER UPLOAD THESE) ---
+config.py
+credentials.json
+.env
+secrets.toml
+
+# --- Python & Environment ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Settings ---
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+streamlit
+groq
+requests
+gspread
+oauth2client
+pandas
