@@ -27,14 +27,15 @@ Imagine you are looking for gold in a river.
 >
 ![Dashboard View](Dashboard.png)
 
-### 2. The Engine (Terminal Logs)
-> The AI automatically switches brains (from 70B to 8B) if it gets "tired" (rate limited), ensuring it never crashes.
+### 2. The Engine
+> The 'Gold Mine' View: Instant Access to Paying Client
+> ![Viewing Leads](leads.png)
 
 
 ### 3. The Results (Google Sheets)
 > Clean, organized leads appear in your spreadsheet instantly.
 >
-> **[📸 INSERT SCREENSHOT OF YOUR GOOGLE SHEET ROW HERE]**
+> ![Google sheets](googlesheets.png)
 
 ---
 
