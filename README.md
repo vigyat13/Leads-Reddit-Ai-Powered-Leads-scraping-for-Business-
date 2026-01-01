@@ -25,7 +25,7 @@ Imagine you are looking for gold in a river.
 ### 1. The Dashboard (Search Interface)
 > You type what you are looking for (e.g., "hiring video editor").
 >
-(https://github.com/vigyat13/Leads-Reddit-Ai-Powered-Leads-scraping-for-Business-/blob/main/Dashboard.png)
+![Dashboard View](Dashboard.png)
 
 ### 2. The Engine (Terminal Logs)
 > The AI automatically switches brains (from 70B to 8B) if it gets "tired" (rate limited), ensuring it never crashes.
